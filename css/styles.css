@@ -14,6 +14,10 @@ a {
     font-style: normal
 }
 
+address {
+    font-style: normal;
+}
+
 .link:hover, 
 .link:focus {
     color: #404bbf;
