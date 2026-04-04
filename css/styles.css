@@ -14,10 +14,6 @@ a {
     font-style: normal
 }
 
-.contacts a{
-    font-style: normal
-}
-
 .link:hover, 
 .link:focus {
     color: #404bbf;
@@ -31,15 +27,33 @@ h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.nav a{
+.main-link {
     font-weight: 500;
     color: #2e2f42;
 }
 
-.nav a:hover, .nav a:focus {
+.nav-link{
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.team-name {
+text-align: center
+}
+
+.team-description {
+text-align: center
+}
+
+.main-link:hover, .main-link:focus {
+    color: #404bbf;
+}
+
+.nav-link:hover, .nav-link:focus {
     color: #404bbf;
 }
 
@@ -57,18 +71,15 @@ h3 {
     color: #4d5ae5;
 }
 
-
-
-
-
-.nav .main-link:active {
-    background: #404bbf;
+.main-link:active {
+    color: #404bbf;
 }
 
-.main-page h1{
+h1{
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
+letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
@@ -95,6 +106,7 @@ background-color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
@@ -103,8 +115,8 @@ background-color: #2e2f42;
     background: #f4f4fd;
 }
 
-.team-wrapper li {
-    background: #fff;
+.team-list {
+    background-color: #fff;
 }
 
 .ending {
