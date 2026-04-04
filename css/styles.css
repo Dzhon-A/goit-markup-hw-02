@@ -52,6 +52,7 @@ text-align: center;
 color: #2e2f42;
 font-weight: 500;
 font-size: 20px;
+line-height: 1.2;
 }
 
 .team-description {
@@ -76,7 +77,7 @@ color: #434455;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -93,7 +94,7 @@ color: #434455;
 .main-title {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -122,7 +123,7 @@ background-color: #2e2f42;
 .section-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -146,7 +147,7 @@ background-color: #2e2f42;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
