@@ -67,7 +67,7 @@ color: #fff;
 
 .wrapper {
     background-color: #2e2f42;
-    width: 1440px
+    width: 1440px;
 }
 
 .wrapper .main-page-button {
@@ -89,4 +89,23 @@ color: #fff;
     line-height: 1.11111;
     text-align: center;
     color: #2e2f42;
+}
+
+.team-wrapper {
+    background: #f4f4fd;
+    width: 1440px;
+}
+
+.team-wrapper li {
+    background: #fff;
+}
+
+.ending {
+    background-color: #2e2f42;
+    width: 1440px;
+    color: #f4f4fd;
+}
+
+.ending a {
+    color: #f4f4fd;
 }
