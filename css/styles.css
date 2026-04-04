@@ -19,11 +19,11 @@ a {
     color: #404bbf;
 }
 
-ul, ol {
+ul {
     list-style-type: none;
 }
 
-h3 {
+.mini-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -75,7 +75,7 @@ text-align: center
     color: #404bbf;
 }
 
-h1{
+.main-title {
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
